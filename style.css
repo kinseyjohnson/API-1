@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to bottom, #ffffcc -33%, #ffff66 130%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 100vh; */
+}
+
+img.logo {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: auto;
+  z-index: 1;
+}
+
+h1.index {
+    text-align: center;
+    color: #3366cc;
+}
+
+h2 {
+    color:#3366cc;
+}
+
+h3 {
+    color:#3366cc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+.background {
+    color: white;
+}
